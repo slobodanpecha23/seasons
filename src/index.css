@@ -1,0 +1,11 @@
+.error {
+    background-image: url("https://ak.picdn.net/shutterstock/videos/13573160/thumb/11.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.border-green {
+    border: 10px dashed red;
+}

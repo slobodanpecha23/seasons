@@ -1,0 +1,27 @@
+.text-position {
+}
+
+.bg {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: red;
+    text-shadow: 4px 4px #000000;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.winter {
+    background-image: url("https://roxburyreview.com/wp-content/uploads/2019/12/download.jpeg");
+}
+
+.summer {
+    background-image: url("https://content.thriveglobal.com/wp-content/uploads/2020/06/summer.jpg");
+}
